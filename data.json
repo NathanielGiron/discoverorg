@@ -1,0 +1,763 @@
+[
+    {
+      "id": 1178,
+      "name": "Golden Rule Insurance",
+      "fullName": "Golden Rule Insurance",
+      "mainPhoneNumber": "(317) 297-4123",
+      "numEmployees": 439,
+      "revenue": 554220000,
+      "fiscalYearEnd": "12",
+      "websiteUrl": "www.goldenrule.com",
+      "emailDomain": "goldenrule.com",
+      "description": "Golden Rule was founded in 1940. Golden Rule Insurance Company, a subsidiary of UnitedHealthcare, Inc., provides a comprehensive array of consumer-oriented health plans and services to individuals and families. The company is a pioneer and one of the nation's leading providers of Health Savings plans.",
+      "linkedinUrl": "https://www.linkedin.com/company/golden-rule-insurance",
+      "location": {
+        "id": 768,
+        "streetAddress1": "7440 Woodland Drive",
+        "streetAddress2": "",
+        "city": "Indianapolis",
+        "stateProvinceRegion": "IN",
+        "postalCode": "46278",
+        "isoCountryCode": "US",
+        "countryName": "United States",
+        "metroSystem": "CBSA",
+        "metroArea": "Indianapolis-Carmel-Anderson IN",
+        "latitude": 39.88659,
+        "longitude": -86.26696
+      },
+      "industry": "Health Insurance",
+      "ownershipType": "Private",
+      "sic": [
+        6321,
+        6311
+      ],
+      "naics": [
+        524114
+      ],
+      "otherNames": [
+        "Golden Rule Insurance Company",
+        "GoldenRuleInsurance.com"
+      ],
+      "dorgCompanyUrl": "https://go.discoverydb.com/eui/#/company/1178",
+      "companyDepartments": [
+        {
+          "departmentName": "Information Technology",
+          "departmentLabel": "IT",
+          "numEmployees": 17,
+          "budget": 22720000
+        },
+        {
+          "departmentName": "Finance",
+          "departmentLabel": "FI",
+          "numEmployees": 19,
+          "budget": 5540000
+        },
+        {
+          "departmentName": "Marketing",
+          "departmentLabel": "MK",
+          "numEmployees": 7,
+          "budget": 43230000
+        },
+        {
+          "departmentName": "TEDD",
+          "departmentLabel": "TEDD",
+          "numEmployees": 10,
+          "budget": 0
+        },
+        {
+          "departmentName": "Sales",
+          "departmentLabel": "SA",
+          "numEmployees": 76,
+          "budget": 0
+        },
+        {
+          "departmentName": "Human Resources",
+          "departmentLabel": "HR",
+          "numEmployees": 18,
+          "budget": 0
+        },
+        {
+          "departmentName": "C-Suite",
+          "departmentLabel": "CxO",
+          "numEmployees": 3,
+          "budget": 0
+        },
+        {
+          "departmentName": "Legal",
+          "departmentLabel": "LGL",
+          "numEmployees": 19,
+          "budget": 0
+        },
+        {
+          "departmentName": "Operations",
+          "departmentLabel": "OPS",
+          "numEmployees": 0,
+          "budget": 0
+        }
+      ],
+      "corporateHierarchyRelationshipType": {
+        "id": 2,
+        "displayName": "Subsidiary"
+      },
+      "ultimateParent": {
+        "id": 1502,
+        "name": "UnitedHealth Group",
+        "state": {
+          "id": 4,
+          "displayName": "Online"
+        }
+      },
+      "3YearSalesGrowthPercentage": 0,
+      "3YearEmployeesGrowthPercentage": 0
+    },
+    {
+      "id": 1176,
+      "name": "Nike",
+      "fullName": "Nike, Inc.",
+      "mainPhoneNumber": "(503) 671-6453",
+      "numEmployees": 74400,
+      "revenue": 36397000000,
+      "fiscalYearEnd": "5",
+      "fortuneRank": 89,
+      "websiteUrl": "www.nike.com",
+      "emailDomain": "nike.com",
+      "description": "Nike, Inc. was founded in 1964 and is headquartered in Beaverton, Oregon. Nike is a multinational footwear, apparel, equipment, and accessories designer and manufacturer. The company designs and sells accessories for a variety of sports, including baseball, golf, and volleyball. Nike sells products under its own brand, as well as Nike Golf, Nike Pro, Nike+, Air Jordan, Nike Skateboarding, and other subsidiaries including Hurley International, Umbro, and Converse.",
+      "linkedinUrl": "www.linkedin.com/company/nike",
+      "location": {
+        "id": 2,
+        "streetAddress1": "1 Bowerman Drive",
+        "streetAddress2": "",
+        "city": "Beaverton",
+        "stateProvinceRegion": "OR",
+        "postalCode": "97005",
+        "isoCountryCode": "US",
+        "countryName": "United States",
+        "metroSystem": "CBSA",
+        "metroArea": "Portland-Vancouver-Hillsboro OR-WA",
+        "latitude": 45.50772,
+        "longitude": -122.82809
+      },
+      "industry": "Consumer Products",
+      "ownershipType": "Public",
+      "sic": [
+        5961,
+        3149
+      ],
+      "naics": [
+        316210,
+        454110
+      ],
+      "otherNames": [
+        "Converse",
+        "Converse Inc",
+        "Converse, Inc.",
+        "Hurley",
+        "Hurley International",
+        "Hurley.com",
+        "Nike China",
+        "Nike IHM",
+        "NIKE INC",
+        "Nike Inc.",
+        "Nike Incorporated",
+        "Nike Shanghai",
+        "Nike Sports",
+        "Nike Sports (China) Co., Ltd. Shanghai Branch"
+      ],
+      "dorgCompanyUrl": "https://go.discoverydb.com/eui/#/company/1176",
+      "companyDepartments": [
+        {
+          "departmentName": "Information Technology",
+          "departmentLabel": "IT",
+          "numEmployees": 1860,
+          "budget": 1055500000
+        },
+        {
+          "departmentName": "Finance",
+          "departmentLabel": "FI",
+          "numEmployees": 6000,
+          "budget": 546000000
+        },
+        {
+          "departmentName": "Marketing",
+          "departmentLabel": "MK",
+          "numEmployees": 1340,
+          "budget": 6478700000
+        },
+        {
+          "departmentName": "TEDD",
+          "departmentLabel": "TEDD",
+          "numEmployees": 474,
+          "budget": 0
+        },
+        {
+          "departmentName": "Sales",
+          "departmentLabel": "SA",
+          "numEmployees": 13314,
+          "budget": 0
+        },
+        {
+          "departmentName": "Human Resources",
+          "departmentLabel": "HR",
+          "numEmployees": 1476,
+          "budget": 0
+        },
+        {
+          "departmentName": "C-Suite",
+          "departmentLabel": "CxO",
+          "numEmployees": 40,
+          "budget": 0
+        },
+        {
+          "departmentName": "Legal",
+          "departmentLabel": "LGL",
+          "numEmployees": 97,
+          "budget": 0
+        },
+        {
+          "departmentName": "Operations",
+          "departmentLabel": "OPS",
+          "numEmployees": 247,
+          "budget": 0
+        }
+      ],
+      "corporateHierarchyRelationshipType": {
+        "id": 1,
+        "displayName": "Ultimate Parent"
+      },
+      "ultimateParent": {
+        "id": 1176,
+        "name": "Nike",
+        "state": {
+          "id": 4,
+          "displayName": "Online"
+        }
+      },
+      "3YearSalesGrowthPercentage": 11,
+      "3YearEmployeesGrowthPercentage": 16,
+      "global200Rank": 344
+    },
+    {
+      "id": 4018119,
+      "name": "Click Here Publishing",
+      "fullName": "Click Here Publishing",
+      "mainPhoneNumber": "(225) 383-0333",
+      "numEmployees": 20,
+      "revenue": 2000000,
+      "websiteUrl": "www.clickherepublishing.com",
+      "emailDomain": "clickherepublishing.com",
+      "description": "Founded in 1993, Click Here Publishing is a professional digital marketing and website development agency. Services provided include Social Advertising, Search Engine Marketing, Search Engine Optimization, custom website development, Social Advertising, Training and Consulting.",
+      "linkedinUrl": "https://www.linkedin.com/company/click-here-publishing",
+      "location": {
+        "id": 3174278,
+        "streetAddress1": "9448 Brookline Avenue",
+        "city": "Baton Rouge",
+        "stateProvinceRegion": "LA",
+        "postalCode": "70809",
+        "isoCountryCode": "US",
+        "countryName": "United States",
+        "metroSystem": "CBSA",
+        "metroArea": "Baton Rouge, LA",
+        "latitude": 30.39455,
+        "longitude": -91.07991
+      },
+      "industry": "IT Services",
+      "ownershipType": "Private",
+      "sic": [
+        7379
+      ],
+      "naics": [
+        541519
+      ],
+      "otherNames": [
+        "Click Here Publishing Google Partner"
+      ],
+      "dorgCompanyUrl": "https://go.discoverydb.com/eui/#/company/4018119",
+      "companyDepartments": [
+        {
+          "departmentName": "Information Technology",
+          "departmentLabel": "IT",
+          "numEmployees": 6,
+          "budget": 0
+        },
+        {
+          "departmentName": "Finance",
+          "departmentLabel": "FI",
+          "numEmployees": 0,
+          "budget": 0
+        },
+        {
+          "departmentName": "Marketing",
+          "departmentLabel": "MK",
+          "numEmployees": 2,
+          "budget": 0
+        },
+        {
+          "departmentName": "TEDD",
+          "departmentLabel": "TEDD",
+          "numEmployees": 5,
+          "budget": 0
+        },
+        {
+          "departmentName": "Sales",
+          "departmentLabel": "SA",
+          "numEmployees": 4,
+          "budget": 0
+        },
+        {
+          "departmentName": "Human Resources",
+          "departmentLabel": "HR",
+          "numEmployees": 2,
+          "budget": 0
+        },
+        {
+          "departmentName": "C-Suite",
+          "departmentLabel": "CxO",
+          "numEmployees": 2,
+          "budget": 0
+        },
+        {
+          "departmentName": "Legal",
+          "departmentLabel": "LGL",
+          "numEmployees": 0,
+          "budget": 0
+        },
+        {
+          "departmentName": "Operations",
+          "departmentLabel": "OPS",
+          "numEmployees": 2,
+          "budget": 0
+        }
+      ]
+    },
+    {
+      "id": 4111220,
+      "name": "DoubleClick by Google",
+      "fullName": "DoubleClick by Google",
+      "numEmployees": 751,
+      "revenue": 255374246,
+      "websiteUrl": "www.google.com",
+      "description": "DoubleClick connects the right people, in the right moments, to make digital advertising work better.\n\nLearn more at: www.doubleclick.com\n\nFor help with DoubleClick, please visit the DoubleClick Help Center: https://support.google.com/doubleclick",
+      "location": {
+        "id": 3342176,
+        "streetAddress1": "1600 Amphitheatre Parkway",
+        "streetAddress2": "",
+        "city": "Mountain View",
+        "stateProvinceRegion": "CA",
+        "postalCode": "94043",
+        "isoCountryCode": "US",
+        "countryName": "United States",
+        "metroArea": "San Jose-Sunnyvale-Santa Clara, CA"
+      },
+      "industry": "Advertising / Marketing",
+      "ownershipType": "Private",
+      "sic": [
+        8742
+      ],
+      "naics": [
+        541613
+      ],
+      "dorgCompanyUrl": "https://go.discoverydb.com/eui/#/company/4111220",
+      "companyDepartments": [
+        {
+          "departmentName": "Information Technology",
+          "departmentLabel": "IT",
+          "numEmployees": 25,
+          "budget": 0
+        },
+        {
+          "departmentName": "Finance",
+          "departmentLabel": "FI",
+          "numEmployees": 4,
+          "budget": 0
+        },
+        {
+          "departmentName": "TEDD",
+          "departmentLabel": "TEDD",
+          "numEmployees": 4,
+          "budget": 0
+        },
+        {
+          "departmentName": "Sales",
+          "departmentLabel": "SA",
+          "numEmployees": 4,
+          "budget": 0
+        },
+        {
+          "departmentName": "Human Resources",
+          "departmentLabel": "HR",
+          "numEmployees": 8,
+          "budget": 0
+        },
+        {
+          "departmentName": "C-Suite",
+          "departmentLabel": "CxO",
+          "numEmployees": 3,
+          "budget": 0
+        }
+      ]
+    },
+    {
+      "id": 1289,
+      "name": "Google",
+      "fullName": "Google, Inc.",
+      "mainPhoneNumber": "(650) 253-0000",
+      "numEmployees": 80110,
+      "revenue": 110855000000,
+      "fiscalYearEnd": "12",
+      "fortuneRank": 22,
+      "websiteUrl": "www.google.com/about",
+      "emailDomain": "google.com",
+      "description": "Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search engine, software, cloud computing, and advertising technologies, and launched the popular Android system for tablets and phones, competing successfully against Apple's iPhone and iPad products. The company is headquartered in Mountain View, CA with additional offices worldwide.",
+      "linkedinUrl": "linkedin.com/company/google",
+      "location": {
+        "id": 238,
+        "streetAddress1": "1600 Amphitheatre Parkway",
+        "streetAddress2": "",
+        "city": "Mountain View",
+        "stateProvinceRegion": "CA",
+        "postalCode": "94043",
+        "isoCountryCode": "US",
+        "countryName": "United States",
+        "metroSystem": "CBSA",
+        "metroArea": "San Jose-Sunnyvale-Santa Clara CA",
+        "latitude": 37.39815,
+        "longitude": -122.04909
+      },
+      "industry": "Computer Software",
+      "ownershipType": "Public",
+      "sic": [
+        7371
+      ],
+      "naics": [
+        541511
+      ],
+      "otherNames": [
+        "Admeld",
+        "Alphabet Inc.",
+        "Alphabet, Inc.",
+        "Apigee",
+        "Blogger",
+        "Chronicle",
+        "DoubleClick",
+        "Google Cloud",
+        "Google Fiber",
+        "Google Inc",
+        "Google Inc.",
+        "Google Incorporated",
+        "Google LLC",
+        "Google Play",
+        "Google X",
+        "Google [X]",
+        "Google, Inc",
+        "google.com",
+        "Google/Alphabet",
+        "Googlecom",
+        "Nest",
+        "Nest Labs, Inc.",
+        "Postini",
+        "The Chronicle",
+        "Verily",
+        "Waymo",
+        "Wildfire Interactive",
+        "X Labs",
+        "X The Moonshot Factory",
+        "X, the moonshot factory",
+        "X: The Moonshot Factory",
+        "YouTube",
+        "Youtube Llc",
+        "Zagat"
+      ],
+      "dorgCompanyUrl": "https://go.discoverydb.com/eui/#/company/1289",
+      "companyDepartments": [
+        {
+          "departmentName": "Information Technology",
+          "departmentLabel": "IT",
+          "numEmployees": 1737,
+          "budget": 3340000000
+        },
+        {
+          "departmentName": "Finance",
+          "departmentLabel": "FI",
+          "numEmployees": 333,
+          "budget": 903000000
+        },
+        {
+          "departmentName": "Marketing",
+          "departmentLabel": "MK",
+          "numEmployees": 885,
+          "budget": 11826000000
+        },
+        {
+          "departmentName": "TEDD",
+          "departmentLabel": "TEDD",
+          "numEmployees": 8397,
+          "budget": 0
+        },
+        {
+          "departmentName": "Sales",
+          "departmentLabel": "SA",
+          "numEmployees": 497,
+          "budget": 0
+        },
+        {
+          "departmentName": "Human Resources",
+          "departmentLabel": "HR",
+          "numEmployees": 322,
+          "budget": 0
+        },
+        {
+          "departmentName": "C-Suite",
+          "departmentLabel": "CxO",
+          "numEmployees": 32,
+          "budget": 0
+        },
+        {
+          "departmentName": "Legal",
+          "departmentLabel": "LGL",
+          "numEmployees": 267,
+          "budget": 0
+        },
+        {
+          "departmentName": "Operations",
+          "departmentLabel": "OPS",
+          "numEmployees": 185,
+          "budget": 0
+        }
+      ],
+      "corporateHierarchyRelationshipType": {
+        "id": 1,
+        "displayName": "Ultimate Parent"
+      },
+      "ultimateParent": {
+        "id": 1289,
+        "name": "Google",
+        "state": {
+          "id": 4,
+          "displayName": "Online"
+        }
+      },
+      "3YearSalesGrowthPercentage": 73,
+      "3YearEmployeesGrowthPercentage": 60,
+      "global200Rank": 23
+    },
+    {
+      "id": 4827,
+      "name": "Trimble Navigation",
+      "fullName": "Trimble Navigation Limited",
+      "mainPhoneNumber": "(408) 481-8000",
+      "numEmployees": 9523,
+      "revenue": 2654000000,
+      "fiscalYearEnd": "12",
+      "fortuneRank": 800,
+      "websiteUrl": "www.trimble.com",
+      "emailDomain": "trimble.com",
+      "description": "Founded in 1978, Trimble Navigation, based in Sunnyvale, California, is a provider of advanced positioning equipment, most notably GPS receivers, laser range finders and inertial navigation systems. The company is best known in the fields of surveying, construction, agriculture, scientific instrumentation, mobile and fleet management. The company has employees in 18 countries and has a network of dealers and distribution partners.",
+      "linkedinUrl": "www.linkedin.com/company/trimble",
+      "location": {
+        "id": 4083,
+        "streetAddress1": "935 Stewart Drive",
+        "streetAddress2": "",
+        "city": "Sunnyvale",
+        "stateProvinceRegion": "CA",
+        "postalCode": "94085",
+        "isoCountryCode": "US",
+        "countryName": "United States",
+        "metroSystem": "CBSA",
+        "metroArea": "San Jose-Sunnyvale-Santa Clara, CA",
+        "latitude": 37.37979,
+        "longitude": -121.9907
+      },
+      "industry": "Manufacturing - Durables",
+      "ownershipType": "Public",
+      "sic": [
+        3812,
+        8711
+      ],
+      "naics": [
+        541330,
+        334511
+      ],
+      "otherNames": [
+        "10-4",
+        "10-4 Systems",
+        "Computer Services Consultants (UK)",
+        "Google Sketchup",
+        "harvestmark",
+        "Manhattan Software",
+        "Manhattan Software Inc",
+        "Manhattan Software Inc.",
+        "Manhattan Software Incorporated",
+        "Manhattan Software, Inc.",
+        "SketchUp",
+        "Tekla",
+        "TRADE SERVICE CORPORATION",
+        "TRIMBLE",
+        "Trimble Buildings Group",
+        "Trimble Inc",
+        "Trimble Inc.",
+        "Trimble Incorporated",
+        "Trimble Nav",
+        "Trimble Navigation Ltd",
+        "TRIMBLE NAVIGATION LTD /CA/",
+        "Trimble Navigation Ltd.",
+        "Trimble Navigation, Limited",
+        "Trimble Navigation, Ltd",
+        "Trimble Navigation, Ltd.",
+        "Trimble, Inc",
+        "Trimble, Incorporated",
+        "trimble.com",
+        "YOTTAMARK"
+      ],
+      "dorgCompanyUrl": "https://go.discoverydb.com/eui/#/company/4827",
+      "companyDepartments": [
+        {
+          "departmentName": "Information Technology",
+          "departmentLabel": "IT",
+          "numEmployees": 210,
+          "budget": 98200000
+        },
+        {
+          "departmentName": "Finance",
+          "departmentLabel": "FI",
+          "numEmployees": 1000,
+          "budget": 39810000
+        },
+        {
+          "departmentName": "Marketing",
+          "departmentLabel": "MK",
+          "numEmployees": 113,
+          "budget": 214970000
+        },
+        {
+          "departmentName": "TEDD",
+          "departmentLabel": "TEDD",
+          "numEmployees": 542,
+          "budget": 0
+        },
+        {
+          "departmentName": "Sales",
+          "departmentLabel": "SA",
+          "numEmployees": 155,
+          "budget": 0
+        },
+        {
+          "departmentName": "Human Resources",
+          "departmentLabel": "HR",
+          "numEmployees": 99,
+          "budget": 0
+        },
+        {
+          "departmentName": "C-Suite",
+          "departmentLabel": "CxO",
+          "numEmployees": 16,
+          "budget": 0
+        },
+        {
+          "departmentName": "Legal",
+          "departmentLabel": "LGL",
+          "numEmployees": 19,
+          "budget": 0
+        },
+        {
+          "departmentName": "Operations",
+          "departmentLabel": "OPS",
+          "numEmployees": 37,
+          "budget": 0
+        }
+      ],
+      "corporateHierarchyRelationshipType": {
+        "id": 1,
+        "displayName": "Ultimate Parent"
+      },
+      "ultimateParent": {
+        "id": 4827,
+        "name": "Trimble Navigation",
+        "state": {
+          "id": 4,
+          "displayName": "Online"
+        }
+      },
+      "3YearSalesGrowthPercentage": 23,
+      "3YearEmployeesGrowthPercentage": 5
+    },
+    {
+      "id": 4099584,
+      "name": "Waze",
+      "fullName": "Waze Mobile",
+      "numEmployees": 351,
+      "revenue": 37000000,
+      "websiteUrl": "www.waze.com",
+      "emailDomain": "waze.com",
+      "description": "Waze is the world's largest community-based traffic and navigation application. Join other drivers in your area who share real-time traffic and road info, saving everyone time and gas money on their daily commute.",
+      "linkedinUrl": "https://www.linkedin.com/company/waze",
+      "location": {
+        "id": 3314052,
+        "streetAddress1": "1505 Salado Drive",
+        "streetAddress2": "Google West Campus 3",
+        "city": "Mountain View",
+        "stateProvinceRegion": "CA",
+        "postalCode": "94043",
+        "isoCountryCode": "US",
+        "countryName": "United States",
+        "metroArea": "San Jose-Sunnyvale-Santa Clara, CA",
+        "latitude": 37.39815,
+        "longitude": -122.04909
+      },
+      "industry": "Social Media",
+      "ownershipType": "Private",
+      "sic": [
+        7374
+      ],
+      "naics": [
+        518210
+      ],
+      "otherNames": [
+        "google"
+      ],
+      "dorgCompanyUrl": "https://go.discoverydb.com/eui/#/company/4099584",
+      "companyDepartments": [
+        {
+          "departmentName": "Information Technology",
+          "departmentLabel": "IT",
+          "numEmployees": 4,
+          "budget": 0
+        },
+        {
+          "departmentName": "Marketing",
+          "departmentLabel": "MK",
+          "numEmployees": 9,
+          "budget": 0
+        },
+        {
+          "departmentName": "TEDD",
+          "departmentLabel": "TEDD",
+          "numEmployees": 5,
+          "budget": 0
+        },
+        {
+          "departmentName": "C-Suite",
+          "departmentLabel": "CxO",
+          "numEmployees": 2,
+          "budget": 0
+        },
+        {
+          "departmentName": "Operations",
+          "departmentLabel": "OPS",
+          "numEmployees": 2,
+          "budget": 0
+        }
+      ],
+      "corporateHierarchyRelationshipType": {
+        "id": 2,
+        "displayName": "Subsidiary"
+      },
+      "ultimateParent": {
+        "id": 1289,
+        "name": "Google",
+        "state": {
+          "id": 4,
+          "displayName": "Online"
+        }
+      }
+    }
+]

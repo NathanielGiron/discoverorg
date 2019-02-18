@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Discover</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container">
+      <h1>DiscoverOrg</h1>
+
+      <form method="GET" action="/">
+        <table>
+          <tr>
+            <td><label for="nameFilter">Filter by</label></td>
+            <td>
+              <select class="form-control" id="field" name="field">
+                <option value="name">Name</option>
+                <option value="size">Company Size</option>
+                <option>Technology</option>
+              </select>
+            </td>
+            <td><input class="form-control" id="searchText" type="text" name="searchText"></td>
+            <td><input type="submit" class="btn btn-success"></td>
+            <td><a role="button" class="btn btn-primary" href="/">Reset</a></td>
+          </tr>
+        </table>
+
+      </form>
+      <br>
+
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Number of Employees</th>
+            <th scope="col">Website URL</th>
+            <th scope="col">State</th>
+            <th scope="col">Country</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% companies.forEach(function(company) { %>
+          <tr>
+            <th scope="row"><%= company.id %></th>
+            <td><%= company.name %></td>
+            <td><%= company.numEmployees %></td>
+            <td><%= company.websiteUrl %></td>
+            <td><%= company.location.stateProvinceRegion %></td>
+            <td><%= company.location.countryName %></td>
+          </tr>
+          <% }); %>
+        </tbody>
+      </table>
+
+      <td><a role="button" class="btn btn-primary" href="/csv">Import to CSV</a></td>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
